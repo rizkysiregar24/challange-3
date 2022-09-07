@@ -54,7 +54,7 @@ class dog extends Animal {
 }
 const hiu = new shark('hiu', 10, 'berenang');
 const kucing = new cat('kucing', 2, 'berjalan' );
-const anjing = new dog('anjing', 10, 'berjalan', 'rizky');
+const anjing = new dog('alaska', 10, 'berjalan', 'rizky');
 console.log(kucing);
 console.log(anjing);
 console.log(hiu);
